@@ -86,3 +86,4 @@ Você não vai desenvolver o sistema mais profissional que existe, e sim o que m
 - <span style="color:#1f6feb"><b>MVP (Escopo Mínimo Viável)</b></span>: o mínimo para o sistema ser considerado aceitável e servir de base para as outras etapas.
 - <span style="color:#1f6feb"><b>Estrutura de domínio</b></span>: entender a lógica por trás das entidades básicas e seus relacionamentos. A modelagem das informações (dados) é o começo de tudo.
 - <span style="color:#1f6feb"><b>Implementação</b></span>: funcionalidade por funcionalidade.
+
