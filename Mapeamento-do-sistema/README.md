@@ -23,40 +23,6 @@ As etapas **não são estritamente sequenciais**. Na prática há iteração: o 
 5. Peça revisão de pelo menos um artefato a outra pessoa.
 6. Atribua nota de 0 a 4, preencha o parecer final e atualize a tabela abaixo.
 
-## 📊 Painel geral
-
-| Nº | Etapa | Validada | Nota (0-4) | Data |
-|---|---|---|---|---|
-| 01 | [Entender o negócio e o problema](./01-negocio-e-problema/README.md) | [ ] | ____ | ____/____/____ |
-| 02 | [Avaliar viabilidade e risco](./02-viabilidade-e-risco/README.md) | [ ] | ____ | ____/____/____ |
-| 03 | [Mapear pessoas e organização](./03-pessoas-e-organizacao/README.md) | [ ] | ____ | ____/____/____ |
-| 04 | [Mapear processos, domínio e requisitos](./04-processos-dominio-e-requisitos/README.md) | [ ] | ____ | ____/____/____ |
-| 05 | [Mapear dados e integrações](./05-dados-e-integracoes/README.md) | [ ] | ____ | ____/____/____ |
-| 06 | [Requisitos não funcionais e restrições](./06-requisitos-nao-funcionais/README.md) | [ ] | ____ | ____/____/____ |
-| 07 | [Definir solução e arquitetura inicial](./07-solucao-e-arquitetura-inicial/README.md) | [ ] | ____ | ____/____/____ |
-| 08 | [Planejar e preparar a execução](./08-planejamento-e-execucao/README.md) | [ ] | ____ | ____/____/____ |
-| 09 | [Validar antes de construir](./09-validacao-antes-de-construir/README.md) | [ ] | ____ | ____/____/____ |
-
-## 🧮 Escala de autoavaliação
-
-| Nota | Nível | Descrição |
-|---|---|---|
-| 0 | Desconhecido | Nunca estudei ou não lembro nada. |
-| 1 | Reconheço | Reconheço os termos, mas não consigo aplicar. |
-| 2 | Aplico com apoio | Consigo fazer seguindo modelo ou consultando referências. |
-| 3 | Aplico com autonomia | Faço sozinho, justifico minhas escolhas e corrijo meus erros. |
-| 4 | Ensino e decido | Conduzo a etapa em projetos reais, oriento outros e avalio trade-offs. |
-
-**Meta por etapa:** nota **3** para validar. Nota 4 nas etapas que forem sua especialidade (por exemplo, analista de requisitos ou arquiteto).
-
-## 🧪 Regras de validação (para evitar se enganar)
-
-- **Evidência acima de sensação.** Documento, diagrama, ata, protótipo ou gravação contam. "Acho que sei" não conta.
-- **Sem copiar modelos.** Usar templates é bom; preencher sem entender não valida o critério.
-- **Pratique em casos reais.** Mapeie um sistema que existe (um app que você usa, um processo da sua empresa, um projeto pessoal). Casos fictícios só servem para começar.
-- **Revisão externa.** Nesta fase, o erro típico é você não enxergar o próprio ponto cego. Peça a outra pessoa para questionar seus artefatos.
-- **Teste de legibilidade.** Um artefato bom é entendido por alguém que não participou da conversa.
-- **Reteste espaçado.** Volte às perguntas de autoavaliação após 1 semana, 1 mês e 3 meses.
 
 ## 📄 Projeto-âncora sugerido
 

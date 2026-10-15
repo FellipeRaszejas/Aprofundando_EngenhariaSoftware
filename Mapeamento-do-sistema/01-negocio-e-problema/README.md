@@ -1,10 +1,3 @@
-# 01 · Entender o negócio e o problema
-
-> **Status:** `[ ] Não iniciado` · `[ ] Em andamento` · `[ ] Em revisão` · `[ ] Validado`
->
-> **Início:** ____/____/______ · **Conclusão:** ____/____/______ · **Horas estudadas:** ______
->
-> **Autoavaliação (0 a 4):** ____ *(ver escala no README principal)*
 
 ## 🎯 Objetivo da etapa
 
@@ -15,7 +8,6 @@ Compreender por que o sistema existe, qual problema resolve, para quem e como sa
 ```
 01-negocio-e-problema/
 ├── README.md          ← este arquivo (validação)
-├── notas/             ← resumos com suas próprias palavras
 ├── exercicios/        ← estudos de caso, práticas, simulações
 ├── artefatos/         ← documentos e diagramas produzidos (entregáveis)
 ├── referencias/       ← links, PDFs, anotações de livros e cursos
@@ -84,17 +76,7 @@ Responda **de memória, em voz alta ou por escrito**, antes de consultar qualque
 5. Quais hipóteses seu produto assume e como testá-las?
    - Resposta (sem consultar):
 
-## 🔎 Lacunas e dúvidas abertas
 
-| Data | Dúvida / lacuna | Plano para resolver | Resolvido? |
-|---|---|---|---|
-|  |  |  | [ ] |
-
-## 🧾 Materiais consultados
-
-| Tipo (livro, curso, artigo, vídeo) | Título / link | Capítulos ou partes | Nota (0-5) |
-|---|---|---|---|
-|  |  |  |  |
 
 ## 🏁 Parecer final da etapa
 
